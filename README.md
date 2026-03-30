@@ -48,8 +48,6 @@ Publish the website in the LocalHost.
     </center>
 
     <br><br>
-
-    <!-- TIME TABLE -->
     <table border="3" cellpadding="12" cellspacing="5" width="80%" align="center" bgcolor="#e6f2ff">
         
         <tr bgcolor="#4da6ff">
@@ -100,8 +98,6 @@ Publish the website in the LocalHost.
     </table>
 
     <br><br>
-
-    <!-- SUBJECT TABLE -->
     <table border="3" cellpadding="10" cellspacing="5" width="50%" align="center" bgcolor="#fff0f5">
 
         <tr bgcolor="#ff66a3">
@@ -132,11 +128,12 @@ Publish the website in the LocalHost.
 
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT:
 A responsive and visually appealing CAMU Schedule web page using Bootstrap is designed successfully.
